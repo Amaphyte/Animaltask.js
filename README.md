@@ -8,6 +8,11 @@ Animal Class: Fundamental class for animals.
 AnimalClass: Signifies a classification tier.
 undational Animal class.
 
+The use of the major principles were duely put into use:
+inheritance from the Animal class to tbe base classes(extend from class Animal)
+polymorphism
+Encapsulation: use of getters
+Abstraction
 
 CATEGORIZATIONS: The classification species divisions such as "Lacking Backbone" and "Possessing Backbone," each housing specific orders and their associated blood characteristics:
 
